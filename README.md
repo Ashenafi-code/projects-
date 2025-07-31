@@ -1,16 +1,47 @@
 💼 Portfolio Projects
-Welcome to the portfolio of practical data science and machine learning projects by Ashenafi-code. This repository showcases hands-on implementations using Python, Jupyter Notebooks, and popular ML libraries such as scikit-learn, XGBoost, and LightGBM.
+Welcome to the portfolio of practical data science and machine learning projects by Ashenafi T. This repository showcases hands-on implementations using Python, Jupyter Notebooks, and popular ML libraries such as scikit-learn, XGBoost, and LightGBM.
 
 📁 Project Structure
 
-portfolio_projects/
-Loan_Default_Prediction.ipynb
-Rainfall_Prediction.ipynb
-Retail_Sales_Time_Series_Forecasting.ipynb
-e-Commerce_time_series_forecasting.ipynb
-fraud-detection-predictive-model.ipynb
-german_credit_risk_classification.ipynb
 
+---
+
+## 🔍 Projects Overview
+
+### 1. [🏦 Loan Default Prediction](portfolio_projects/Loan_Default_Prediction.ipynb)
+Predict the likelihood of loan default using customer financial and behavioral data. Includes feature engineering and model evaluation.
+
+### 2. [🌧️ Rainfall Prediction](portfolio_projects/Rainfall_Prediction.ipynb)
+Regression-based analysis to predict rainfall based on meteorological features. Explores weather patterns and builds robust predictive models.
+
+### 3. [🛒 Retail Sales Time Series Forecasting](portfolio_projects/Retail_Sales_Time_Series_Forecasting.ipynb)
+Time series modeling of historical retail sales data using seasonal decomposition, ARIMA, and Prophet forecasting.
+
+### 4. [🛍️ e-Commerce Time Series Forecasting](portfolio_projects/e-Commerce_time_series_forecasting.ipynb)
+Forecast future online sales for e-commerce platforms. Includes feature extraction, seasonality analysis, and advanced forecasting models.
+
+### 5. [💳 Fraud Detection Predictive Model](portfolio_projects/fraud-detection-predictive-model.ipynb)
+Classifies transactions as fraudulent or legitimate using imbalanced datasets. Utilizes SMOTE, cross-validation, and ROC-based evaluation.
+
+### 6. [🇩🇪 German Credit Risk Classification](portfolio_projects/german_credit_risk_classification.ipynb)
+Binary classification of loan applicants into good/bad credit risk. Uses Decision Tree, XGBoost, LightGBM with SMOTE and feature importance analysis.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Languages & Tools:** Python, Jupyter Notebook
+- **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, XGBoost, LightGBM, imbalanced-learn
+- **Modeling Techniques:** Classification, Regression, Time Series Forecasting, SMOTE, ROC AUC, GridSearchCV
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ashenafi-code/projects-.git
+   cd projects-/portfolio_projects
 
 
 
