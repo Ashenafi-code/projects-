@@ -4,26 +4,25 @@ Welcome to the portfolio of practical data science and machine learning projects
 📁 Project Structure
 
 
----
 
 ## 🔍 Projects Overview
 
-### 1. [🏦 Loan Default Prediction](portfolio_projects/Loan_Default_Prediction.ipynb)
+### 1. [🏦 Loan Default Prediction](portfolio_projects/Loan Default Prediction.ipynb)
 Predict the likelihood of loan default using customer financial and behavioral data. Includes feature engineering and model evaluation.
 
-### 2. [🌧️ Rainfall Prediction](portfolio_projects/Rainfall_Prediction.ipynb)
+### 2. [🌧️ Rainfall Prediction](portfolio_projects/Rainfall Prediction.ipynb)
 Regression-based analysis to predict rainfall based on meteorological features. Explores weather patterns and builds robust predictive models.
 
-### 3. [🛒 Retail Sales Time Series Forecasting](portfolio_projects/Retail_Sales_Time_Series_Forecasting.ipynb)
+### 3. [🛒 Retail Sales Time Series Forecasting](portfolio_projects/Retail Sales Time Series Forecast_.ipynb)
 Time series modeling of historical retail sales data using seasonal decomposition, ARIMA, and Prophet forecasting.
 
-### 4. [🛍️ e-Commerce Time Series Forecasting](portfolio_projects/e-Commerce_time_series_forecasting.ipynb)
+### 4. [🛍️ e-Commerce Time Series Forecasting](portfolio_projects/e-Commerce time series forecast.ipynb)
 Forecast future online sales for e-commerce platforms. Includes feature extraction, seasonality analysis, and advanced forecasting models.
 
-### 5. [💳 Fraud Detection Predictive Model](portfolio_projects/fraud-detection-predictive-model.ipynb)
+### 5. [💳 Fraud Detection Predictive Model](portfolio_projects/fraud-detection-predictive-models.ipynb)
 Classifies transactions as fraudulent or legitimate using imbalanced datasets. Utilizes SMOTE, cross-validation, and ROC-based evaluation.
 
-### 6. [🇩🇪 German Credit Risk Classification](portfolio_projects/german_credit_risk_classification.ipynb)
+### 6. [🇩🇪 German Credit Risk Classification](portfolio_projects/german-credit-risk-classificationn.ipynb)
 Binary classification of loan applicants into good/bad credit risk. Uses Decision Tree, XGBoost, LightGBM with SMOTE and feature importance analysis.
 
 ---
