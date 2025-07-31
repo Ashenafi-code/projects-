@@ -41,10 +41,18 @@ Welcome to the portfolio of practical data science and machine learning projects
 ## Objective: Identify fraudulent transactions using predictive modeling.
 
 ## Techniques Used: Anomaly detection and classification.
-Notebook. [💳 Fraud Detection Predictive Model](portfolio_projects/fraud-detection-predictive-models.ipynb)
+## Notebook. [💳 Fraud Detection Predictive Model](portfolio_projects/fraud-detection-predictive-models.ipynb)
 Classifies transactions as fraudulent or legitimate using imbalanced datasets. Utilizes SMOTE, cross-validation, and ROC-based evaluation.
 
-### 6. [🇩🇪 German Credit Risk Classification](portfolio_projects/german-credit-risk-classificationn.ipynb)
+# 6 🏦 German Credit Risk Classification
+## Objective: Predict whether a loan applicant is a good or bad credit risk.
+## Techniques Used: 
+## Exploratory Data Analysis
+## Handling Class Imbalance with SMOTE
+## Model Training (Decision Tree, GradientBoosting, XGBoost, LightGBM)
+## ROC/AUC Evaluation & Visualization
+## Interactive Widgets for Model Exploration
+## Notebook [🇩🇪 German Credit Risk Classification](portfolio_projects/german-credit-risk-classificationn.ipynb)
 Binary classification of loan applicants into good/bad credit risk. Uses Decision Tree, XGBoost, LightGBM with SMOTE and feature importance analysis.
 
 ---
@@ -55,14 +63,5 @@ Binary classification of loan applicants into good/bad credit risk. Uses Decisio
 - **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, XGBoost, LightGBM, imbalanced-learn
 - **Modeling Techniques:** Classification, Regression, Time Series Forecasting, SMOTE, ROC AUC, GridSearchCV
 
-📌 Featured Projects
-🏦 German Credit Risk Classification
 
-Objective: Predict whether a loan applicant is a good or bad credit risk.
-Techniques Used: 
-Exploratory Data Analysis
-Handling Class Imbalance with SMOTE
-Model Training (Decision Tree, GradientBoosting, XGBoost, LightGBM)
-ROC/AUC Evaluation & Visualization
-Interactive Widgets for Model Exploration
 
