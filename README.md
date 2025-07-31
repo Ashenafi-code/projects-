@@ -1,13 +1,13 @@
-💼 Portfolio Projects
-Welcome to the portfolio of practical data science and machine learning projects by Ashenafi T. This repository showcases hands-on implementations using Python, Jupyter Notebooks, and popular ML libraries such as scikit-learn, XGBoost, and LightGBM.
+## 💼 Portfolio Projects
+## Welcome to the portfolio of practical data science and machine learning projects by Ashenafi T. This repository showcases hands-on implementations using Python, ## Jupyter Notebooks, and popular ML libraries such as scikit-learn, XGBoost, and LightGBM.
 
-📁 Project Structure
+# 📁 Project Structure
 
 
 ## 🔍 Projects Overview
-🏦 Loan Default Prediction
+# 1 🏦 Loan Default Prediction
 
-# Objective: Predict the likelihood of loan default using customer financial and behavioral data.
+## Objective: Predict the likelihood of loan default using customer financial and behavioral data.
 
 ## Techniques Used: Feature engineering, model evaluation.
 
