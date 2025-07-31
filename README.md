@@ -4,7 +4,6 @@ Welcome to the portfolio of practical data science and machine learning projects
 📁 Project Structure
 
 
-
 ## 🔍 Projects Overview
 
 ### 1. [🏦 Loan Default Prediction](portfolio_projects/Loan Default Prediction.ipynb)
