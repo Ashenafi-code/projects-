@@ -55,6 +55,8 @@ Classifies transactions as fraudulent or legitimate using imbalanced datasets. U
 ## Notebook [🇩🇪 German Credit Risk Classification](portfolio_projects/german-credit-risk-classificationn.ipynb)
 Binary classification of loan applicants into good/bad credit risk. Uses Decision Tree, XGBoost, LightGBM with SMOTE and feature importance analysis.
 
+# 7 [Sticker Sales Forecasting(]https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/Sticker%20Sales%20forecasting.ipynb)
+
 ---
 
 ## 🛠️ Technologies Used
