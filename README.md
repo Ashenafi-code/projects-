@@ -15,7 +15,7 @@ Regression-based analysis to predict rainfall based on meteorological features. 
 ### 3. [🛒 Retail Sales Time Series Forecasting](https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/Retail%20Sales%20Time%20Series%20Forecast_.ipynb)
 Time series modeling of historical retail sales data using seasonal decomposition, ARIMA, and Prophet forecasting.
 
-### 4. [🛍️ e-Commerce Time Series Forecasting]((https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/e-Commerce%20time%20series%20forecast.ipynb)
+### 4. [🛍️ e-Commerce Time Series Forecasting](https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/e-Commerce%20time%20series%20forecast.ipynb)
 Forecast future online sales for e-commerce platforms. Includes feature extraction, seasonality analysis, and advanced forecasting models.
 
 ### 5. [💳 Fraud Detection Predictive Model](portfolio_projects/fraud-detection-predictive-models.ipynb)
