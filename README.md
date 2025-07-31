@@ -6,7 +6,7 @@ Welcome to the portfolio of practical data science and machine learning projects
 
 ## 🔍 Projects Overview
 
-### 1. [🏦 Loan Default Prediction](portfolio_projects/Loan Default Prediction.ipynb)
+### 1. [🏦 Loan Default Prediction]([portfolio_projects/Loan Default Prediction.ipynb](https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/Loan%20Default%20Prediction.ipynb))
 Predict the likelihood of loan default using customer financial and behavioral data. Includes feature engineering and model evaluation.
 
 ### 2. [🌧️ Rainfall Prediction](portfolio_projects/Rainfall Prediction.ipynb)
