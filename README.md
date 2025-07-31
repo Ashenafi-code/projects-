@@ -6,16 +6,16 @@ Welcome to the portfolio of practical data science and machine learning projects
 
 ## 🔍 Projects Overview
 
-### 1. [🏦 Loan Default Prediction]([portfolio_projects/Loan Default Prediction.ipynb](https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/Loan%20Default%20Prediction.ipynb))
+### 1. ([🏦 Loan Default Prediction](https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/Loan%20Default%20Prediction.ipynb)
 Predict the likelihood of loan default using customer financial and behavioral data. Includes feature engineering and model evaluation.
 
-### 2. [🌧️ Rainfall Prediction](portfolio_projects/Rainfall Prediction.ipynb)
+### 2. ([🌧️ Rainfall Prediction](https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/Rainfall%20Prediction.ipynb)
 Regression-based analysis to predict rainfall based on meteorological features. Explores weather patterns and builds robust predictive models.
 
-### 3. [🛒 Retail Sales Time Series Forecasting](portfolio_projects/Retail Sales Time Series Forecast_.ipynb)
+### 3. [🛒 Retail Sales Time Series Forecasting](https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/Retail%20Sales%20Time%20Series%20Forecast_.ipynb)
 Time series modeling of historical retail sales data using seasonal decomposition, ARIMA, and Prophet forecasting.
 
-### 4. [🛍️ e-Commerce Time Series Forecasting](portfolio_projects/e-Commerce time series forecast.ipynb)
+### 4. [🛍️ e-Commerce Time Series Forecasting]((https://github.com/Ashenafi-code/projects-/blob/main/portfolio_projects/e-Commerce%20time%20series%20forecast.ipynb)
 Forecast future online sales for e-commerce platforms. Includes feature extraction, seasonality analysis, and advanced forecasting models.
 
 ### 5. [💳 Fraud Detection Predictive Model](portfolio_projects/fraud-detection-predictive-models.ipynb)
